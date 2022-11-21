@@ -1,4 +1,6 @@
 
+
+//Space Added
 public class SpaceCraft {
     //Initialize values
     final int GRAVITY = 9;
